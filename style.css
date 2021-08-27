@@ -106,10 +106,11 @@ body {
 }
 /* ---- Footer ---- */
 .attribution {
-  position: relative;
+  position: absolute;
   font-size: 0.75rem;
   text-align: center;
   color: hsl(180, 34%, 55%);
+  bottom: 5%;
 }
 .attribution a {
   color: hsl(34, 73%, 71%);
