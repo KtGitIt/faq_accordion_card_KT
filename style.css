@@ -124,7 +124,7 @@ body {
     width: 100%;
     background-color: #fff;
     border-radius: 15px;
-    margin: 0 0 1rem 2.8rem;
+    margin-left: 2.8rem;
     display: flex;
     justify-content: space-between;
   }
