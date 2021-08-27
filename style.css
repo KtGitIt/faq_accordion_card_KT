@@ -22,10 +22,10 @@ body {
   align-items: center;
 }
 .main {
-  width: 325px;
+  width: 320px;
   background-color: #fff;
   border-radius: 15px;
-  margin: 0 0.95rem 1rem 0.95rem;
+  margin: 10rem 0.95rem 1rem 0.95rem;
   box-shadow: 0 8px 55px -6px hsl(240, 18%, 31%);
 }
 /* ---- Background Images ---- */
@@ -106,7 +106,7 @@ body {
 }
 /* ---- Footer ---- */
 .attribution {
-  position: absolute;
+  position: relative;
   font-size: 0.75rem;
   text-align: center;
   color: hsl(180, 34%, 55%);
@@ -124,7 +124,7 @@ body {
     width: 100%;
     background-color: #fff;
     border-radius: 15px;
-    margin-left: 2.8rem;
+    margin: 0 0 2rem 2.8rem;
     display: flex;
     justify-content: space-between;
   }
